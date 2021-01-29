@@ -1,0 +1,16 @@
+export default [
+    "python",
+	"javascript",
+	"mongodb",
+	"json",
+	"java",
+	"html",
+	"css",
+  "c",
+	"csharp",
+	"golang",
+	"kotlin",
+	"php",
+	"sql",
+  "ruby",
+  "fortran"]
